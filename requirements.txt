@@ -1,0 +1,5 @@
+pandas
+langchain
+huggingface-hub
+bert-score
+nltk
