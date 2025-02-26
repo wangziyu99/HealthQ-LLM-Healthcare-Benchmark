@@ -119,11 +119,14 @@ This will evaluate all workflows and generate logs in the `results/` directory.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{wang2024healthq,
-  title={Healthq: Unveiling questioning capabilities of llm chains in healthcare conversations},
-  author={Wang, Ziyu and Li, Hao and Huang, Di and Rahmani, Amir M},
-  journal={arXiv preprint arXiv:2409.19487},
-  year={2024}
+@misc{wang2025healthqunveilingquestioningcapabilities,
+      title={HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations}, 
+      author={Ziyu Wang and Hao Li and Di Huang and Hye-Sung Kim and Chae-Won Shin and Amir M. Rahmani},
+      year={2025},
+      eprint={2409.19487},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.19487}, 
 }
 ```
 
